@@ -1,0 +1,4 @@
+D:\GitHub\APP\3. Model\APP.Model.Test\bin\Debug\APP.Model.Test.dll
+D:\GitHub\APP\3. Model\APP.Model.Test\bin\Debug\APP.Model.Test.pdb
+D:\GitHub\APP\3. Model\APP.Model.Test\obj\Debug\APP.Model.Test.dll
+D:\GitHub\APP\3. Model\APP.Model.Test\obj\Debug\APP.Model.Test.pdb

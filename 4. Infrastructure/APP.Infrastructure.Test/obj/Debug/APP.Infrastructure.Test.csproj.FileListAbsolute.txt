@@ -1,0 +1,9 @@
+D:\AAP\4. Infrastructure\APP.Infrastructure.Test\bin\Debug\APP.Infrastructure.Test.dll
+D:\AAP\4. Infrastructure\APP.Infrastructure.Test\bin\Debug\APP.Infrastructure.Test.pdb
+D:\AAP\4. Infrastructure\APP.Infrastructure.Test\obj\Debug\APP.Infrastructure.Test.csprojResolveAssemblyReference.cache
+D:\AAP\4. Infrastructure\APP.Infrastructure.Test\obj\Debug\APP.Infrastructure.Test.dll
+D:\AAP\4. Infrastructure\APP.Infrastructure.Test\obj\Debug\APP.Infrastructure.Test.pdb
+D:\GitHub\APP\4. Infrastructure\APP.Infrastructure.Test\bin\Debug\APP.Infrastructure.Test.dll
+D:\GitHub\APP\4. Infrastructure\APP.Infrastructure.Test\bin\Debug\APP.Infrastructure.Test.pdb
+D:\GitHub\APP\4. Infrastructure\APP.Infrastructure.Test\obj\Debug\APP.Infrastructure.Test.dll
+D:\GitHub\APP\4. Infrastructure\APP.Infrastructure.Test\obj\Debug\APP.Infrastructure.Test.pdb

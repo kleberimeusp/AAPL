@@ -1,0 +1,9 @@
+D:\AAP\4. Infrastructure\APP.Infrastructure\bin\Debug\APP.Infrastructure.dll
+D:\AAP\4. Infrastructure\APP.Infrastructure\bin\Debug\APP.Infrastructure.pdb
+D:\AAP\4. Infrastructure\APP.Infrastructure\obj\Debug\APP.Infrastructure.csprojResolveAssemblyReference.cache
+D:\AAP\4. Infrastructure\APP.Infrastructure\obj\Debug\APP.Infrastructure.dll
+D:\AAP\4. Infrastructure\APP.Infrastructure\obj\Debug\APP.Infrastructure.pdb
+D:\GitHub\APP\4. Infrastructure\APP.Infrastructure\bin\Debug\APP.Infrastructure.dll
+D:\GitHub\APP\4. Infrastructure\APP.Infrastructure\bin\Debug\APP.Infrastructure.pdb
+D:\GitHub\APP\4. Infrastructure\APP.Infrastructure\obj\Debug\APP.Infrastructure.dll
+D:\GitHub\APP\4. Infrastructure\APP.Infrastructure\obj\Debug\APP.Infrastructure.pdb

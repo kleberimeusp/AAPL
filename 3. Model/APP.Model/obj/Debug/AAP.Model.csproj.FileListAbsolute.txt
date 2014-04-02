@@ -1,0 +1,10 @@
+D:\AAP\3. Model\AAP.Model\bin\Debug\AAP.Model.dll
+D:\AAP\3. Model\AAP.Model\bin\Debug\AAP.Model.pdb
+D:\AAP\3. Model\AAP.Model\obj\Debug\AAP.Model.csprojResolveAssemblyReference.cache
+D:\AAP\3. Model\AAP.Model\obj\Debug\AAP.Model.dll
+D:\AAP\3. Model\AAP.Model\obj\Debug\AAP.Model.pdb
+D:\GitHub\APP\3. Model\AAP.Model\bin\Debug\AAP.Model.dll
+D:\GitHub\APP\3. Model\AAP.Model\bin\Debug\AAP.Model.pdb
+D:\GitHub\APP\3. Model\AAP.Model\obj\Debug\AAP.Model.csprojResolveAssemblyReference.cache
+D:\GitHub\APP\3. Model\AAP.Model\obj\Debug\AAP.Model.dll
+D:\GitHub\APP\3. Model\AAP.Model\obj\Debug\AAP.Model.pdb

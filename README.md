@@ -1,4 +1,4 @@
-AAPL
-====
+APP
+===
 
-Agile ADO.Net Persistence Layer
+My Architecture Applications

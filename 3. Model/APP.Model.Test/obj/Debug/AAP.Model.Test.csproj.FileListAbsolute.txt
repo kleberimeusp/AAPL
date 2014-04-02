@@ -1,0 +1,10 @@
+D:\AAP\3. Model\AAP.Model.Test\bin\Debug\AAP.Model.Test.dll
+D:\AAP\3. Model\AAP.Model.Test\bin\Debug\AAP.Model.Test.pdb
+D:\AAP\3. Model\AAP.Model.Test\obj\Debug\AAP.Model.Test.csprojResolveAssemblyReference.cache
+D:\AAP\3. Model\AAP.Model.Test\obj\Debug\AAP.Model.Test.dll
+D:\AAP\3. Model\AAP.Model.Test\obj\Debug\AAP.Model.Test.pdb
+D:\GitHub\APP\3. Model\AAP.Model.Test\bin\Debug\AAP.Model.Test.dll
+D:\GitHub\APP\3. Model\AAP.Model.Test\bin\Debug\AAP.Model.Test.pdb
+D:\GitHub\APP\3. Model\AAP.Model.Test\obj\Debug\AAP.Model.Test.csprojResolveAssemblyReference.cache
+D:\GitHub\APP\3. Model\AAP.Model.Test\obj\Debug\AAP.Model.Test.dll
+D:\GitHub\APP\3. Model\AAP.Model.Test\obj\Debug\AAP.Model.Test.pdb

@@ -1,0 +1,9 @@
+D:\AAP\2. Domain\APP.Domain.Test\bin\Debug\APP.Domain.Test.dll
+D:\AAP\2. Domain\APP.Domain.Test\bin\Debug\APP.Domain.Test.pdb
+D:\AAP\2. Domain\APP.Domain.Test\obj\Debug\APP.Domain.Test.csprojResolveAssemblyReference.cache
+D:\AAP\2. Domain\APP.Domain.Test\obj\Debug\APP.Domain.Test.dll
+D:\AAP\2. Domain\APP.Domain.Test\obj\Debug\APP.Domain.Test.pdb
+D:\GitHub\APP\2. Domain\APP.Domain.Test\bin\Debug\APP.Domain.Test.dll
+D:\GitHub\APP\2. Domain\APP.Domain.Test\bin\Debug\APP.Domain.Test.pdb
+D:\GitHub\APP\2. Domain\APP.Domain.Test\obj\Debug\APP.Domain.Test.dll
+D:\GitHub\APP\2. Domain\APP.Domain.Test\obj\Debug\APP.Domain.Test.pdb
