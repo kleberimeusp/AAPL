@@ -53,11 +53,10 @@
     <Compile Include="dataShape\persistence\mappers\IDataMapperCreator.cs" />
     <Compile Include="dataShape\persistence\methods\TemplateMethod.cs" />
     <Compile Include="dataShape\persistence\methods\UpdateMethod.cs" />
+    <Compile Include="dataShape\Usuario.cs" />
     <Compile Include="DbValue.cs" />
-    <Compile Include="Enums.cs" />
     <Compile Include="NullValue.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Response.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="dataShape\rules\" />

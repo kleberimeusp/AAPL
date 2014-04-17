@@ -10,3 +10,13 @@ D:\GitHub\APP\1. View\APP.View\bin\APP.View.pdb
 D:\GitHub\APP\1. View\APP.View\obj\Debug\APP.View.csprojResolveAssemblyReference.cache
 D:\GitHub\APP\1. View\APP.View\obj\Debug\APP.View.dll
 D:\GitHub\APP\1. View\APP.View\obj\Debug\APP.View.pdb
+C:\Users\ksantos\Documents\Projects\_Arquitetura.Imperio\AAPL-master\AAPL-master\1. View\APP.View\bin\APP.View.dll.config
+C:\Users\ksantos\Documents\Projects\_Arquitetura.Imperio\AAPL-master\AAPL-master\1. View\APP.View\bin\APP.View.dll
+C:\Users\ksantos\Documents\Projects\_Arquitetura.Imperio\AAPL-master\AAPL-master\1. View\APP.View\bin\APP.View.pdb
+C:\Users\ksantos\Documents\Projects\_Arquitetura.Imperio\AAPL-master\AAPL-master\1. View\APP.View\obj\Debug\APP.View.csprojResolveAssemblyReference.cache
+C:\Users\ksantos\Documents\Projects\_Arquitetura.Imperio\AAPL-master\AAPL-master\1. View\APP.View\obj\Debug\APP.View.dll
+C:\Users\ksantos\Documents\Projects\_Arquitetura.Imperio\AAPL-master\AAPL-master\1. View\APP.View\obj\Debug\APP.View.pdb
+C:\Users\ksantos\Documents\Projects\_Arquitetura.Imperio\AAPL-master\AAPL-master\1. View\APP.View\bin\APP.Domain.dll
+C:\Users\ksantos\Documents\Projects\_Arquitetura.Imperio\AAPL-master\AAPL-master\1. View\APP.View\bin\APP.Model.dll
+C:\Users\ksantos\Documents\Projects\_Arquitetura.Imperio\AAPL-master\AAPL-master\1. View\APP.View\bin\APP.Domain.pdb
+C:\Users\ksantos\Documents\Projects\_Arquitetura.Imperio\AAPL-master\AAPL-master\1. View\APP.View\bin\APP.Model.pdb

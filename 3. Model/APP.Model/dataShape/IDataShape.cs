@@ -1,4 +1,6 @@
-﻿using System.Reflection;
+﻿using System;
+using System.Collections.Generic;
+using System.Reflection;
 
 namespace APP.Model.dataShape
 {
@@ -8,11 +10,13 @@ namespace APP.Model.dataShape
 
         PropertyInfo[] GetProperties();
 
-        Response Insert();
-        Response Update();
-        Response Delete();
+        Object Insert();
+        Object Update();
+        Object Delete();
 
-        Response GetSingle();
-        Response GetList();
+        Object GetSingle();
+        Object GetList();
+
+        List<String> Validate();
     }
 }

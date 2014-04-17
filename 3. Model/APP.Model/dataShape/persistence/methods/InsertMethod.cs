@@ -43,16 +43,16 @@ namespace APP.Model.dataShape.persistence.methods
             }
         }
 
-        public override Response Execute()
+        public override Object Execute()
         {
             try
             {
                 this._dbDao.ExecuteNonQuery(this._command);
-                return new Response(Enums.ResponseStatus.SUCCESS);
+                return true;
             }
             catch (Exception e)
             {
-                return new Response(Enums.ResponseStatus.ERROR, e.Message);
+                return false;
             }
         }
     }

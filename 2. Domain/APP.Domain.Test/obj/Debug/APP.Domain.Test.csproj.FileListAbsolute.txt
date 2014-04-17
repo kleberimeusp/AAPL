@@ -7,3 +7,7 @@ D:\GitHub\APP\2. Domain\APP.Domain.Test\bin\Debug\APP.Domain.Test.dll
 D:\GitHub\APP\2. Domain\APP.Domain.Test\bin\Debug\APP.Domain.Test.pdb
 D:\GitHub\APP\2. Domain\APP.Domain.Test\obj\Debug\APP.Domain.Test.dll
 D:\GitHub\APP\2. Domain\APP.Domain.Test\obj\Debug\APP.Domain.Test.pdb
+C:\Users\ksantos\Documents\Projects\_Arquitetura.Imperio\AAPL-master\AAPL-master\2. Domain\APP.Domain.Test\bin\Debug\APP.Domain.Test.dll
+C:\Users\ksantos\Documents\Projects\_Arquitetura.Imperio\AAPL-master\AAPL-master\2. Domain\APP.Domain.Test\bin\Debug\APP.Domain.Test.pdb
+C:\Users\ksantos\Documents\Projects\_Arquitetura.Imperio\AAPL-master\AAPL-master\2. Domain\APP.Domain.Test\obj\Debug\APP.Domain.Test.dll
+C:\Users\ksantos\Documents\Projects\_Arquitetura.Imperio\AAPL-master\AAPL-master\2. Domain\APP.Domain.Test\obj\Debug\APP.Domain.Test.pdb

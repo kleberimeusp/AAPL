@@ -1,6 +1,7 @@
 ﻿using APP.Model.dataShape.persistence;
 using APP.Model.dataShape.persistence.methods;
 using System;
+using System.Collections.Generic;
 using System.Reflection;
 
 namespace APP.Model.dataShape
@@ -20,7 +21,7 @@ namespace APP.Model.dataShape
             }
             set
             {
-                this[index] = value;
+                this.GetType().GetProperty(index).SetValue(this, value);
             }
         }
 
@@ -34,43 +35,48 @@ namespace APP.Model.dataShape
 
         public PropertyInfo[] GetProperties()
         {
-            return Array.FindAll(this.GetType().GetProperties(), element => 
-                
+            return Array.FindAll(this.GetType().GetProperties(), element =>
+
                     element.Name != "Item"
 
-                &&  element.PropertyType.Namespace != this.GetType().Namespace
-                &&  element.PropertyType.Namespace != "System.Collections.Generic"
-                &&  element.PropertyType.Namespace != "System.Enum");
+                && element.PropertyType.Namespace != this.GetType().Namespace
+                && element.PropertyType.Namespace != "System.Collections.Generic"
+                && element.PropertyType.Namespace != "System.Enum");
         }
 
-        public virtual Response Insert()
+        public virtual Object Insert()
         {
             this._templateMethod = new InsertMethod(this._dbDao);
             return this._templateMethod.Run(this);
         }
 
-        public virtual Response Update()
+        public virtual Object Update()
         {
             this._templateMethod = new UpdateMethod(this._dbDao);
             return this._templateMethod.Run(this);
         }
 
-        public virtual Response Delete()
+        public virtual Object Delete()
         {
             this._templateMethod = new DeleteMethod(this._dbDao);
             return this._templateMethod.Run(this);
         }
 
-        public virtual Response GetSingle()
+        public virtual Object GetSingle()
         {
             this._templateMethod = new GetSingleMethod<T>(this._dbDao);
             return this._templateMethod.Run(this);
         }
 
-        public virtual Response GetList()
+        public virtual Object GetList()
         {
             this._templateMethod = new GetListMethod<T>(this._dbDao);
             return this._templateMethod.Run(this);
+        }
+
+        public virtual List<string> Validate()
+        {
+            return new List<String>();
         }
     }
 }

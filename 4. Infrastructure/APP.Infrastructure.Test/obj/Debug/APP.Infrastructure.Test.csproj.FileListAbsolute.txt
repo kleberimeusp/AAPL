@@ -7,3 +7,8 @@ D:\GitHub\APP\4. Infrastructure\APP.Infrastructure.Test\bin\Debug\APP.Infrastruc
 D:\GitHub\APP\4. Infrastructure\APP.Infrastructure.Test\bin\Debug\APP.Infrastructure.Test.pdb
 D:\GitHub\APP\4. Infrastructure\APP.Infrastructure.Test\obj\Debug\APP.Infrastructure.Test.dll
 D:\GitHub\APP\4. Infrastructure\APP.Infrastructure.Test\obj\Debug\APP.Infrastructure.Test.pdb
+C:\Users\ksantos\Documents\Projects\_Arquitetura.Imperio\AAPL-master\AAPL-master\4. Infrastructure\APP.Infrastructure.Test\bin\Debug\APP.Infrastructure.Test.dll
+C:\Users\ksantos\Documents\Projects\_Arquitetura.Imperio\AAPL-master\AAPL-master\4. Infrastructure\APP.Infrastructure.Test\bin\Debug\APP.Infrastructure.Test.pdb
+C:\Users\ksantos\Documents\Projects\_Arquitetura.Imperio\AAPL-master\AAPL-master\4. Infrastructure\APP.Infrastructure.Test\obj\Debug\APP.Infrastructure.Test.csprojResolveAssemblyReference.cache
+C:\Users\ksantos\Documents\Projects\_Arquitetura.Imperio\AAPL-master\AAPL-master\4. Infrastructure\APP.Infrastructure.Test\obj\Debug\APP.Infrastructure.Test.dll
+C:\Users\ksantos\Documents\Projects\_Arquitetura.Imperio\AAPL-master\AAPL-master\4. Infrastructure\APP.Infrastructure.Test\obj\Debug\APP.Infrastructure.Test.pdb

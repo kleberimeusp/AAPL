@@ -50,16 +50,15 @@ namespace APP.Model.dataShape.persistence.methods
             }
         }
 
-        public override Response Execute()
+        public override Object Execute()
         {
             try
             {
-                T model = this._dbDao.GetSingle<T>(this._command);
-                return new Response(model);
+                return this._dbDao.GetSingle<T>(this._command);
             }
-            catch (Exception e)
+            catch
             {
-                return new Response(Enums.ResponseStatus.ERROR, e.Message);
+                return Activator.CreateInstance<T>();
             }
         }
     }

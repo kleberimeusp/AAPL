@@ -7,3 +7,10 @@ D:\GitHub\APP\2. Domain\APP.Domain\bin\Debug\APP.Domain.dll
 D:\GitHub\APP\2. Domain\APP.Domain\bin\Debug\APP.Domain.pdb
 D:\GitHub\APP\2. Domain\APP.Domain\obj\Debug\APP.Domain.dll
 D:\GitHub\APP\2. Domain\APP.Domain\obj\Debug\APP.Domain.pdb
+C:\Users\ksantos\Documents\Projects\_Arquitetura.Imperio\AAPL-master\AAPL-master\2. Domain\APP.Domain\bin\Debug\APP.Domain.dll
+C:\Users\ksantos\Documents\Projects\_Arquitetura.Imperio\AAPL-master\AAPL-master\2. Domain\APP.Domain\bin\Debug\APP.Domain.pdb
+C:\Users\ksantos\Documents\Projects\_Arquitetura.Imperio\AAPL-master\AAPL-master\2. Domain\APP.Domain\obj\Debug\APP.Domain.csprojResolveAssemblyReference.cache
+C:\Users\ksantos\Documents\Projects\_Arquitetura.Imperio\AAPL-master\AAPL-master\2. Domain\APP.Domain\obj\Debug\APP.Domain.dll
+C:\Users\ksantos\Documents\Projects\_Arquitetura.Imperio\AAPL-master\AAPL-master\2. Domain\APP.Domain\obj\Debug\APP.Domain.pdb
+C:\Users\ksantos\Documents\Projects\_Arquitetura.Imperio\AAPL-master\AAPL-master\2. Domain\APP.Domain\bin\Debug\APP.Model.dll
+C:\Users\ksantos\Documents\Projects\_Arquitetura.Imperio\AAPL-master\AAPL-master\2. Domain\APP.Domain\bin\Debug\APP.Model.pdb

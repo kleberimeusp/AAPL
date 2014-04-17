@@ -32,8 +32,9 @@ namespace APP.Model.dataShape.persistence.methods
 
         public override void MountQuery(IDataShape model)
         {
-            string query = String.Format("SELECT * FROM [{0}] WHERE {1}",
+            string query = String.Format("SELECT * FROM [{0}] {1} {2}",
                                         model.GetType().Name,
+                                        this._list.ToArray().Length > 0 ? "WHERE" : "",
                                         String.Join(" AND ", this._list.ToArray()));
 
             this._command = this._dbDao.GetSqlCommand(query);
@@ -50,16 +51,15 @@ namespace APP.Model.dataShape.persistence.methods
             }
         }
 
-        public override Response Execute()
+        public override Object Execute()
         {
             try
             {
-                List<T> model = this._dbDao.GetList<T>(this._command);
-                return new Response(model);
+                return this._dbDao.GetList<T>(this._command);
             }
-            catch (Exception e)
+            catch
             {
-                return new Response(Enums.ResponseStatus.ERROR, e.Message);
+                return new List<T>();
             }
         }
     }

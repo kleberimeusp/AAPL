@@ -38,16 +38,16 @@ namespace APP.Model.dataShape.persistence.methods
             this._command.Parameters.Add(this._dbDao.CreateParameter("@Id", model["Id"]));
         }
 
-        public override Response Execute()
+        public override Object Execute()
         {
             try
             {
                 this._dbDao.ExecuteNonQuery(this._command);
-                return new Response(Enums.ResponseStatus.SUCCESS);
+                return true;
             }
-            catch (Exception e)
+            catch
             {
-                return new Response(Enums.ResponseStatus.ERROR, e.Message);
+                return false;
             }
         }
     }
